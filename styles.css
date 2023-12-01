@@ -132,6 +132,10 @@ figure {
     }
 }
 
+iframe {
+    max-width: 100%;
+}
+
 .sourcelist {
     margin: auto;
     text-align: left;

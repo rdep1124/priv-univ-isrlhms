@@ -126,6 +126,12 @@ figure {
     font-family: 'Times New Roman', Times, serif;
 }
 
+@media (max-width: 680px) {
+    iframe {
+        width: 100%;
+    }
+}
+
 .sourcelist {
     margin: auto;
     text-align: left;
